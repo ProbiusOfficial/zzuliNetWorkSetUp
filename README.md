@@ -1,2 +1,3 @@
-# glowing-bassoon
+# (yue
 一个py写的自动连接校园网的程序
+by 探姬 喜欢与撩
